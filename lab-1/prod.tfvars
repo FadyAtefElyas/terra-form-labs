@@ -1,8 +1,0 @@
-cidr = "10.0.0.0/16"
-amiID = "ami-0703b5d7f7da98d1e"
-ec2Type = "t3.micro"
-sub1_pub_cidr = "10.0.1.0/24"
-sub1_pri_cidr = "10.0.2.0/24"
-sub2_pub_cidr = "10.0.3.0/24"
-sub2_pri_cidr = "10.0.4.0/24"
-region = "eu-north-1"
